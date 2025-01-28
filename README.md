@@ -24,26 +24,33 @@
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Hello! I'm a web developer with a passion for creating beautiful and functional websites. I love coding and learning new technologies.</p>
+        <p>Hello!I am Nurul Aini, a motivated Computer Science student with a passion for technology, problem-solving, and innovation. My academic journey has equipped me with a strong foundation in programming, algorithms, and software development, alongside hands-on experience in web development, data analysis, or machine learning.
+
+I am proficient in Python, C++, Java, SGL, Power BI and thrive in collaborative environments where I can apply my technical and analytical skills to solve real-world challenges. Beyond academics, I actively seek opportunities to grow, contribute to impactful projects, and stay ahead of evolving technologies.</p>
     </section>
 
     <section id="skills">
         <h2>Skills</h2>
         <ul>
-            <li>HTML</li>
-            <li>CSS</li>
-            <li>JavaScript</li>
-            <li>React</li>
-            <li>Node.js</li>
-            <li>Git & GitHub</li>
+            <li>Python</li>
+            <li>C++</li>
+            <li>Java</li>
+            <li>SQL</li>
+            <li>Power BI</li>
+            <li>Microsoft 365</li>
+            <li>Adobe Illustrator</li>
+            <li>Adobe Photoshop</li>
+            <li>Visual Studio Code</li>
+            <li>Canva</li>
         </ul>
     </section>
 
     <section id="education">
         <h2>Education</h2>
         <ul>
-            <li>Bachelor of Science in Computer Science - University XYZ (2018 - 2022)</li>
-            <li>Web Development Bootcamp - Online Course (2022)</li>
+            <li>Foundation in Computer Science - Universiti Teknologi PETRONAS (2022 - 2023)</li>
+            <li>Bachelor of Science in Computer Science - Universiti Teknologi PETRONAS (2023 - CURRENT)</li>
+            
         </ul>
     </section>
 
@@ -70,19 +77,19 @@
         <h2>Interests</h2>
         <ul>
             <li>Web Development</li>
-            <li>Open Source Contribution</li>
-            <li>Artificial Intelligence</li>
-            <li>Traveling</li>
-            <li>Photography</li>
+            <li>Sanggar Kirana UTP Gamelan Group </li>
+            <li>Photo Editing</li>
+            <li>Sports</li>
         </ul>
     </section>
 
     <section id="affiliations">
         <h2>Affiliations</h2>
         <ul>
-            <li>Member of the Web Developers Association</li>
-            <li>Contributor to Open Source Projects on GitHub</li>
-            <li>Volunteer at Local Coding Bootcamps</li>
+            <li>Member of Sanggar Kirana UTP Gamelan Group</li>
+            <li>Head of Media and Publication Department of CULTRA & Byte Brigade</li>
+            <li>Head of Public Relations and Sponsorship Department of CultivaSports</li>
+            <li>Joined a coding competition (Oh My Code)</li>
         </ul>
     </section>
 
@@ -91,13 +98,12 @@
         <p>If you'd like to get in touch, feel free to reach out!</p>
         <form>
             <label for="name">Name:</label>
-            <input type="text" id="name" name="name" required>
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
-            <label for="message">Message:</label>
-            <textarea id="message" name="message" required></textarea>
-            <button type="submit">Send</button>
-        </form>
+            <input type="text" id="name" Nurul Aini Bt Anuar="name" required>
+            <label for="email">email:</label>
+            <input type="email" id="email" nurulainianuar.1016@gmail.com="email" required>
+            <label for="phone number">Phone Number:</label>
+            <textarea id="phone number" 011-5172 1016="phone number" required></textarea>
+            
     </section>
 
     <footer>
