@@ -1,113 +1,108 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Portfolio</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
-    <header>
-        <h1>My Portfolio</h1>
-        <nav>
-            <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#skills">Skills</a></li>
-                <li><a href="#education">Education</a></li>
-                <li><a href="#projects">Projects</a></li>
-                <li><a href="#interests">Interests</a></li>
-                <li><a href="#affiliations">Affiliations</a></li>
-                <li><a href="#contact">Contact</a></li>
-            </ul>
-        </nav>
-    </header>
 
-    <section id="about">
-        <h2>About Me</h2>
-        <p>Hello!I am Nurul Aini, a motivated Computer Science student with a passion for technology, problem-solving, and innovation. My academic journey has equipped me with a strong foundation in programming, algorithms, and software development, alongside hands-on experience in web development, data analysis, or machine learning.
+# Portfolio Website
 
-I am proficient in Python, C++, Java, SGL, Power BI and thrive in collaborative environments where I can apply my technical and analytical skills to solve real-world challenges. Beyond academics, I actively seek opportunities to grow, contribute to impactful projects, and stay ahead of evolving technologies.</p>
-    </section>
+A responsive portfolio website template that you can use to showcase your skills, projects, and future development plans. Feel free to use this template for your personal portfolio and customize it to suit your needs.
 
-    <section id="skills">
-        <h2>Skills</h2>
-        <ul>
-            <li>Python</li>
-            <li>C++</li>
-            <li>Java</li>
-            <li>SQL</li>
-            <li>Power BI</li>
-            <li>Microsoft 365</li>
-            <li>Adobe Illustrator</li>
-            <li>Adobe Photoshop</li>
-            <li>Visual Studio Code</li>
-            <li>Canva</li>
-        </ul>
-    </section>
+![Project Demo](/assets/github-portfolio-template-demo.JPG)
 
-    <section id="education">
-        <h2>Education</h2>
-        <ul>
-            <li>Foundation in Computer Science - Universiti Teknologi PETRONAS (2022 - 2023)</li>
-            <li>Bachelor of Science in Computer Science - Universiti Teknologi PETRONAS (2023 - CURRENT)</li>
-            
-        </ul>
-    </section>
+## Table of Contents
 
-    <section id="projects">
-        <h2>My Projects</h2>
-        <div class="project">
-            <h3>Project 1</h3>
-            <p>Description of project 1. This project is about...</p>
-            <a href="#">View Project</a>
-        </div>
-        <div class="project">
-            <h3>Project 2</h3>
-            <p>Description of project 2. This project is about...</p>
-            <a href="#">View Project</a>
-        </div>
-        <div class="project">
-            <h3>Project 3</h3>
-            <p>Description of project 3. This project is about...</p>
-            <a href="#">View Project</a>
-        </div>
-    </section>
+- [About the Project](#about-the-project)
+- [Project Structure](#project-structure)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Customization](#customization)
+- [Example Portfolios](#example-portfolios)
+- [Contributing](#contributing)
+- [License](#license)
+- [Attribution](#attribution-appreciated-but-not-required)
+- [Contact](#contact)
 
-    <section id="interests">
-        <h2>Interests</h2>
-        <ul>
-            <li>Web Development</li>
-            <li>Sanggar Kirana UTP Gamelan Group </li>
-            <li>Photo Editing</li>
-            <li>Sports</li>
-        </ul>
-    </section>
+## About the Project
 
-    <section id="affiliations">
-        <h2>Affiliations</h2>
-        <ul>
-            <li>Member of Sanggar Kirana UTP Gamelan Group</li>
-            <li>Head of Media and Publication Department of CULTRA & Byte Brigade</li>
-            <li>Head of Public Relations and Sponsorship Department of CultivaSports</li>
-            <li>Joined a coding competition (Oh My Code)</li>
-        </ul>
-    </section>
+This template is a responsive portfolio website that can be used by developers, designers, or anyone who wants to showcase their skills and projects. It provides sections for an About Me page, a Skill Set page, a Portfolio page, and a future plans section.
 
-    <section id="contact">
-        <h2>Contact Me</h2>
-        <p>If you'd like to get in touch, feel free to reach out!</p>
-        <form>
-            <label for="name">Name:</label>
-            <input type="text" id="name" Nurul Aini Bt Anuar="name" required>
-            <label for="email">email:</label>
-            <input type="email" id="email" nurulainianuar.1016@gmail.com="email" required>
-            <label for="phone number">Phone Number:</label>
-            <textarea id="phone number" 011-5172 1016="phone number" required></textarea>
-            
-    </section>
+## Project Structure
 
-    <footer>
-        <p>&copy; 2023 My Portfolio. All rights reserved.</p>
-    </footer>
-</body>
-</html>
+- `index.html`: The main page of the portfolio website.
+- `about-me.html`: The about me page.
+- `skill-set.html`: The skillset page.
+- `portfolio.html`: The portfolio page.
+- `style.css`: The main CSS file for styling.
+- `style-about-me.css`: CSS file specific to the about me page.
+- `style-portfolio.css`: CSS file specific to the portfolio page.
+- `assets/`: Directory containing project images and assets.
+
+## Getting Started
+
+1. Fork this repository to your GitHub account by clicking the "Fork" button in the top right corner.
+2. Clone your forked repository to your local machine using the following command:
+
+   ```bash
+   git clone https://github.com/iluskaland/portfolio-template.git
+
+Now, you have your own fork of the repository, and you can make changes and contributions as described in the "Contributing" section.
+
+## Usage
+
+To view the live demonstration of this portfolio template, visit [this link](https://iluskaland.github.io/portfolio-template/index.html). You can customize the content and styles to create your own portfolio website. Feel free to replace the content with your information and add your projects.
+
+## Customization
+
+Customize this template by modifying the HTML and CSS files to match your personal information, skills, and projects. You can change the colors, fonts, and layout to create a unique portfolio.
+
+## Dark Mode Support
+
+Now featuring dark mode support! The portfolio website automatically adapts to your system's color scheme preference.
+
+![Dark Mode Support](/assets/github-portfolio-template-demo-dark.png)
+
+## Example Portfolios
+
+Check out this portfolio created using this template:
+
+1. [iluskaland-portfolio](https://iluskaland-portfolio.netlify.app/) - A showcase of what you can achieve with this template.
+
+*I intentionally did not enable the dark preference on my website, because I prefer the light mode.*
+
+## Contributing
+
+I welcome contributions from the open-source community to improve and enhance this project. Whether you're a developer, designer, or someone with new ideas, your contributions are valuable. Here are some guidelines to get you started:
+
+### How to Contribute
+
+1. Fork this repository to your GitHub account.
+2. Clone the forked repository to your local machine.
+3. Create a new branch for your contribution.
+4. Make your changes and ensure they adhere to our code and style standards.
+5. Test your changes thoroughly.
+6. Commit your changes with a descriptive commit message.
+7. Push your changes to your GitHub repository.
+8. Create a Pull Request (PR) to my `main` branch.
+9. I will review your contribution, and once approved, it will be merged.
+
+### Code and Style Guidelines
+
+- Maintain a consistent coding style with the existing codebase.
+- Use only HTML and CSS for any contributions. Avoid introducing other languages or technologies.
+- Comment your code for clarity and documentation.
+- Ensure that your changes do not introduce errors or break existing features.
+
+### Reporting Issues
+
+If you encounter any issues, have ideas for improvements, or would like to request new features, please open an issue on this repository. I appreciate your feedback and will address your concerns as soon as possible.
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
+## Attribution (Appreciated, but Not Required)
+
+I've put a lot of effort into creating this portfolio template, and I'm thrilled if you find it useful for your personal projects. While it's not mandatory, I would greatly appreciate it if you could consider providing attribution to the original source. This could be a simple note in your website's footer or a dedicated "Credits" section, linking back to this repository. Your support helps others discover and benefit from this open-source project.
+
+## Contact
+
+[Github](https://github.com/iluskaland)
+
+Feel free to reach out if you have any questions or feedback!
+
