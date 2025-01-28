@@ -21,7 +21,9 @@
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Hello! I'm a web developer with a passion for creating beautiful and functional websites. I love coding and learning new technologies.</p>
+        <p>Hello! I am Nurul Aini, a motivated Computer Science student with a passion for technology, problem-solving, and innovation. My academic journey has equipped me with a strong foundation in programming, algorithms, and software development, alongside hands-on experience in web development, data analysis, or machine learning.
+
+I am proficient in Python, C++, Java, Power BI and thrive in collaborative environments where I can apply my technical and analytical skills to solve real-world challenges. Beyond academics, I actively seek opportunities to grow, contribute to impactful projects, and stay ahead of evolving technologies.</p>
     </section>
 
     <section id="projects">
